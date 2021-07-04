@@ -14,3 +14,7 @@
     </ol>
 <li>É importante que ambos os alunos realizem o commit no mesmo repositório para que registre a participação de ambos.</li>
 </ol>
+
+Confira ela aqui embaixo
+
+https://josiane-rocha.github.io/Framework.Parceria/
